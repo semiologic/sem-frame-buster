@@ -46,6 +46,10 @@ Make sure your theme has the following in between its `<body>` and `</body>` tag
 
 == Change Log ==
 
+= 5.2 =
+
+- Code refactoring
+
 = 5.1 =
 
 - Refactored source code to object oriented implementation
