@@ -8,12 +8,12 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-> *This plugin has been retired.  No further development will occur on it.*
-
 The frame buster plugin for WordPress will thwart any attempt to load your site in a frame.
 
 
 == Description ==
+
+> *This plugin has been retired.  No further development will occur on it.*
 
 The frame buster plugin for WordPress will thwart any attempt to load your site in a frame.
 
